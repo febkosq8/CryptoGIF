@@ -12,7 +12,7 @@
 
 # **Steps**
 
->Open Windows Terminal / Command Prompt on the server root folder
+>Open Windows Terminal / Command Prompt on the HostServer root folder
 
 ### #1 Create Virtual Environment
 
