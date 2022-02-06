@@ -5,9 +5,9 @@ Web-GUI based software that enables data hiding in GIF securely with the use of 
 
 ### #1 Create Virtual Environment
 
-pip install virtualenv
+>pip install virtualenv
 
-python -m virtualenv venv
+>python -m virtualenv venv
 
 ### #2 Activate Virtual Env
 
