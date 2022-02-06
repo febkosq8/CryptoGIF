@@ -1,39 +1,29 @@
-# CryptoGIF
+## **Instructions to run locally**
 
-## Commands to run
+### #1 Create Virtual Environment
 
-### Create Virtual Environment
+>Open Windows Terminal / Command Prompt on the project root folder
 
-```
-pip install virtualenv
-```
+>pip install virtualenv
 
-```
-python -m virtualenv venv
-```
+>python -m virtualenv venv
 
-### Activate Virtual Env
+### #2 Activate Virtual Env
 
-```
-Drag activate.bat from Crypto-GIF\Server\venv\Scripts (windows)
-```
+>Drag activate.bat from Crypto-GIF\Server\venv\Scripts (windows)
 
-### Install Packages
+### #2 Install Packages
 
-```
-pip install -r requirements.txt
-```
+>pip install -r requirements.txt
 
-### Set project directory
+### #3 Set project directory
 
-```
-set FLASK_ENV=development
-```
+>set FLASK_ENV=development
 
-### Run App
+### #4 Run App
 
-```
-flask run --host=0.0.0.0
-```
+>flask run --host=0.0.0.0
 
-#### Open http://127.0.0.1:5000/ in browser
+### #5 Use Web-GUI
+
+>Open http://127.0.0.1:5000/ in browser
