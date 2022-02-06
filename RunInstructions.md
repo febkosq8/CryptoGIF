@@ -8,7 +8,7 @@
 
 *3. Terminal*
 
-**Steps**
+# **Steps**
 
 >Open Windows Terminal / Command Prompt on the server root folder
 
