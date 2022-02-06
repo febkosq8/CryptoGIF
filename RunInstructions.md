@@ -8,6 +8,8 @@
 
 *3. Terminal*
 
+***Tested working on Windows 11 V21H2***
+
 # **Steps**
 
 >Open Windows Terminal / Command Prompt on the server root folder
@@ -45,6 +47,3 @@ flask run --host=0.0.0.0
 ### #6 Use Web-GUI in any Browser
 
 >Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in browser
-
-
-Tested working on Windows 11 V21H2
