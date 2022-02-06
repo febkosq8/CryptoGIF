@@ -1,4 +1,4 @@
-## **Instructions to run locally**
+## **Information to host CryptoGIF Web-GUI locally**
 
 # ***Prerequisites***
 
@@ -7,6 +7,8 @@
 *2. pip*
 
 *3. Terminal*
+
+**Execute Steps**
 
 >Open Windows Terminal / Command Prompt on the server root folder
 
@@ -43,3 +45,6 @@ flask run --host=0.0.0.0
 ### #6 Use Web-GUI in any Browser
 
 >Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in browser
+
+
+Tested working on Windows 11 V21H2
