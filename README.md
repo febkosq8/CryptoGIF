@@ -9,4 +9,4 @@ To start with, we ask the user to input their choice of GIF (Graphics Interchang
 ![Diagram](https://user-images.githubusercontent.com/33223665/152702403-ea580a63-0384-4d87-92b0-b6fd29a7e0bc.png)
 
 ## **Instructions to run**
-Use these instructions to run the server and client locally on your system [RunInstructions](/RunInstructions.md)
+Use these instructions to run the server and client locally on your system [Link](/RunInstructions.md)
