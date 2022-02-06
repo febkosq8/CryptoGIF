@@ -8,7 +8,7 @@
 
 *3. Terminal*
 
-***Tested working on Windows 11 V21H2***
+***Tested working on Windows 11 v21H2***
 
 # **Steps**
 
