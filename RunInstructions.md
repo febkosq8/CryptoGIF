@@ -6,7 +6,7 @@
 2. pip
 3. Terminal
 
-Open Windows Terminal / Command Prompt on the server root folder
+>Open Windows Terminal / Command Prompt on the server root folder
 
 ### #1 Create Virtual Environment
 
@@ -22,15 +22,21 @@ python -m virtualenv venv
 
 ### #3 Install Packages
 
->pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 
 ### #4 Set project directory
 
->set FLASK_ENV=development
+```
+set FLASK_ENV=development
+```
 
 ### #5 Run App
 
->flask run --host=0.0.0.0
+```
+flask run --host=0.0.0.0
+```
 
 ### #6 Use Web-GUI
 
