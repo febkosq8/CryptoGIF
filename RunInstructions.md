@@ -18,17 +18,17 @@ pip install virtualenv
 python -m virtualenv venv
 ```
 
-### #2 Activate Virtual Env
+### #2 Activate Virtual Environment
 
 >Drag activate.bat from Crypto-GIF\Server\venv\Scripts (windows)
 
-### #3 Install Packages
+### #3 Install Required Packages
 
 ```
 pip install -r requirements.txt
 ```
 
-### #4 Set project directory
+### #4 Set Project Directory
 
 ```
 set FLASK_ENV=development
@@ -40,6 +40,6 @@ set FLASK_ENV=development
 flask run --host=0.0.0.0
 ```
 
-### #6 Use Web-GUI
+### #6 Use Web-GUI in any Browser
 
 >Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in browser
