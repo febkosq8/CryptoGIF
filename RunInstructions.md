@@ -2,10 +2,11 @@
 
 # **Prerequisites**
 
+*
 1. Python v3.8.4
 2. pip
 3. Terminal
-
+*
 >Open Windows Terminal / Command Prompt on the server root folder
 
 ### #1 Create Virtual Environment
